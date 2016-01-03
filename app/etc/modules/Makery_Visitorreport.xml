@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<config>
+		<modules>
+			<Makery_Visitorreport>
+				<active>true</active>
+				<codePool>community</codePool>
+			</Makery_Visitorreport>
+		</modules>
+	</config>
