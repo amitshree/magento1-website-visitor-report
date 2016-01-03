@@ -1,0 +1,6 @@
+<?php
+ 
+class Makery_Visitorreport_Helper_Data extends Mage_Core_Helper_Abstract
+{
+ 
+}
